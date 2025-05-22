@@ -1,0 +1,11 @@
+# raw data
+data/
+
+# intermediate outputs (too big)
+output/violations_health_only.csv
+output/violations_with_systems.csv
+
+# keep summaries and plots
+!output/summary_violations_by_state.csv
+!output/summary_violations_by_year.csv
+!output/plots/
