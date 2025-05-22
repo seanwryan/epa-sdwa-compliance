@@ -74,8 +74,3 @@ Results Preview\
 Data Source and License\
 Raw data provided by the U.S. Environmental Protection Agency (ECHO SDWA downloads, July 2021 release, refreshed quarterly).\
 All code in this repository is released under the MIT License.
-
-Next Steps\
--- Verify outputs and plots\
--- Push this repository to GitHub under seanwryan/epa-sdwa-compliance\
--- Adapt scripts or add new analyses as needed for deeper insights
